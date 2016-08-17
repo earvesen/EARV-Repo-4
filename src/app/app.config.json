@@ -1,0 +1,14 @@
+{
+  "appname": "EARV Repo 4",
+  "scope": "BuyerAdmin BuyerReader FullAccess",
+  "clientid": "2C300463-2043-42A1-8DEA-EE5476F55C00",
+  "buyerid": "buyer123",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
